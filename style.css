@@ -1,0 +1,28 @@
+.note{
+    background-color: lightgoldenrodyellow;
+    font-size: 18px;
+    text-align: center;
+}
+
+.heading{
+    color: white;
+    font-size: 23px;
+    float: center;
+    text-align: center;
+    width:100%;
+}
+
+.copy_right_footer{
+    position: fixed; 
+    float: bottom;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    bottom:0; 
+}
+
+canvas{
+    border: 5px solid lightgoldenrodyellow; 
+    border-radius: 20px;
+}
